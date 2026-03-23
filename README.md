@@ -1,5 +1,4 @@
 # EEG-Based Scientific Test for Targeted Individuals v 0.0.1
-[Introductory article](https://www.reddit.com/r/TargetedIndividSci/comments/1s1gz04/eegbased_scientific_test_for_whether_someone_is_a/)
 
 This workspace contains a PyTorch implementation based on the paper "Schizophrenia Detection on EEG Signals Using an Ensemble of a Lightweight Convolutional Neural Network" ([MDPI](https://www.mdpi.com/2076-3417/14/12/5048)).
 
@@ -102,6 +101,8 @@ $ python3 classify.py \
   --checkpoint runs/paper_reproduction_20260321_202239/fold_01_repeat_02.pt \
   test_subject.eea
 ```
+
+[Introductory article](https://www.reddit.com/r/TargetedIndividSci/comments/1s1gz04/eegbased_scientific_test_for_whether_someone_is_a/)
   
 It will classify using the new AI model whether the test subject is a targeted individual or a healthy control, and it will also report the probability value P.
 
