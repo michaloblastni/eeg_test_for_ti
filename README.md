@@ -1,4 +1,5 @@
 # EEG-Based Scientific Test for Targeted Individuals v 0.0.1
+([Introductory article](https://www.reddit.com/r/TargetedIndividSci/comments/1s1gz04/eegbased_scientific_test_for_whether_someone_is_a/)]
 
 This workspace contains a PyTorch implementation based on the paper "Schizophrenia Detection on EEG Signals Using an Ensemble of a Lightweight Convolutional Neural Network" ([MDPI](https://www.mdpi.com/2076-3417/14/12/5048)).
 
