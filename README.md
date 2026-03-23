@@ -92,7 +92,6 @@ reply to what you were thinking.
 
 Your EEG will be added to the training data set, and used for training and testing an AI-based classifier.
 
-
 ## Support For Using a Trained Model is Already There
 Once the model is trained, it is possibly to run classify.py similar to the following:
 
@@ -104,3 +103,5 @@ $ python3 classify.py \
 ```
   
 It will classify using the new AI model whether the test subject is a targeted individual or a healthy control, and it will also report the probability value P.
+
+ZUNA can remove artifacts and upsample from 8 to 16 channels.
