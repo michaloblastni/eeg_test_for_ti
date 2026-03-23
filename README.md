@@ -7,10 +7,10 @@ It is implemented as a regular Python script rather than a notebook because the 
 The current defaults stay close to the stronger raw-signal baseline, while keeping better repeat selection and saved subject-level metrics.
 
 
-This is a research prototype. The dataset used is good enough to train an AI model, however a new data set is needed. Can targeted individuals anonymously record their own EEG, i.e. using OpenBCI 32bit 8ch and contribute their data to this project?
+This is a research prototype. The dataset used is good enough to train an AI model, however a new dataset is needed. Can targeted individuals anonymously record their own EEG, i.e. using OpenBCI 32bit 8ch and contribute their data to this project?
 
 Once 40 TIs have contributed, and 40 controls who are not targeted, the current code should be able to classify each subject with a high accuracy.
-On the sample data set, mean subject accuracy is 90.42%.
+On the sample dataset, mean subject accuracy is 90.42%.
 
 More about the OpenBCI hardware is at ([TargetedIndividSci](https://www.reddit.com/r/TargetedIndividSci/comments/1mm3s4c/openbci_32bit_8_channels_at_a_low_cost/)].
 
@@ -90,7 +90,7 @@ Then, you can anonymously send your EEG to michaloblastni(at)gmail.com and state
 In order to self-identify as targeted, you will need to confirm you hear external auditory intrusions that happen in response to what you think, and that often 
 reply to what you were thinking.
 
-Your EEG will be added to the training data set, and used for training and testing an AI-based classifier.
+Your EEG will be added to the training dataset, and used for training and testing an AI-based classifier.
 
 ## Support For Using a Trained Model is Already There
 Once the model is trained, it is possibly to run classify.py similar to the following:
