@@ -1,5 +1,5 @@
 # EEG-Based Scientific Test for Targeted Individuals v 0.0.1
-([Introductory article](https://www.reddit.com/r/TargetedIndividSci/comments/1s1gz04/eegbased_scientific_test_for_whether_someone_is_a/)]
+[Introductory article](https://www.reddit.com/r/TargetedIndividSci/comments/1s1gz04/eegbased_scientific_test_for_whether_someone_is_a/)
 
 This workspace contains a PyTorch implementation based on the paper "Schizophrenia Detection on EEG Signals Using an Ensemble of a Lightweight Convolutional Neural Network" ([MDPI](https://www.mdpi.com/2076-3417/14/12/5048)).
 
@@ -13,7 +13,7 @@ This is a research prototype. The dataset used is good enough to train an AI mod
 Once 40 TIs have contributed, and 40 controls who are not targeted, the current code should be able to classify each subject with a high accuracy.
 On the sample dataset, mean subject accuracy is 90.42%.
 
-More about the OpenBCI hardware is at ([TargetedIndividSci](https://www.reddit.com/r/TargetedIndividSci/comments/1mm3s4c/openbci_32bit_8_channels_at_a_low_cost/)].
+More about the OpenBCI hardware is at ([TargetedIndividSci](https://www.reddit.com/r/TargetedIndividSci/comments/1mm3s4c/openbci_32bit_8_channels_at_a_low_cost/)).
 
 If this experiment is successful, targeted individuals will have a scientific test.
 
