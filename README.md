@@ -1,4 +1,4 @@
-# eeg_test_for_ti
+# EEG-Based Scientific Test for Targeted Individuals
 EEG-Based Scientific Test for Whether a Subject is a Targeted Individual
 
 This workspace contains a PyTorch implementation based on the paper "Schizophrenia Detection on EEG Signals Using an Ensemble of a Lightweight Convolutional Neural Network" ([MDPI](https://www.mdpi.com/2076-3417/14/12/5048)).
