@@ -89,3 +89,13 @@ reply to what you were thinking.
 
 Your EEG will be added to the training data set, and used for training and testing an AI-based classifier.
 
+Once the model is trained, it is possibly to run classify.py similar to the following:
+
+```bash
+$ python3 classify.py \
+  --checkpoint runs/paper_reproduction_20260321_202239/fold_01_repeat_01.pt \
+  --checkpoint runs/paper_reproduction_20260321_202239/fold_01_repeat_02.pt \
+  test_subject.eea
+```bash
+  
+It will classify using the new AI model whether the test subject is a targeted individual or a healthy control, and it will also report the probability value P.
