@@ -6,6 +6,10 @@ On the sample data set, mean subject accuracy is 90.42%.
 
 More about the OpenBCI hardware is at ([TargetedIndividSci](https://www.reddit.com/r/TargetedIndividSci/comments/1mm3s4c/openbci_32bit_8_channels_at_a_low_cost/)].
 
+If this experiment is successful, targeted individuals will have a scientific test.
+
+Progress: 0 TIs have contributed. 40 is needed.
+
 # EEG-Based Scientific Test for Whether a Subject is a Targeted Individual
 
 Download the sample dataset from ([Brain Bio MSU](http://brain.bio.msu.ru/eeg_schizophrenia.htm)).
@@ -85,5 +89,3 @@ reply to what you were thinking.
 
 Your EEG will be added to the training data set, and used for training and testing an AI-based classifier.
 
-If this research is successful, targeted individuals will be able to have a scientific test.
-After enough EEG samples are contributed, the test is expected to became extremely accurate. On training data from 40 subjects, the accuracy is 90.42%.
