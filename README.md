@@ -71,3 +71,19 @@ Each run creates a timestamped folder under `runs/` containing:
 The summary now includes both the paper-style segment metrics and the more practical subject-level accuracy.
 
 For GPU on WSL, install PyTorch in the Ubuntu environment you use for training and verify `torch.cuda.is_available()` before starting a full run.
+
+## Record your EEG
+In order to contribute to this project, use OpenBCI 32bit 8ch with the UltraCortex Mark III or IV. 
+
+Do not use the default OpenBCI 8-channel map. Measure these 8 channels: F7, F3, F4, F8, T7(T3), T8(T4), P7(T5), P8(T6).
+
+Record your EEG for 60s. Avoid talking, jaw clenching, blinking bursts, and head movement.
+
+Then, you can anonymously send your EEG to michaloblastni(at)gmail.com and state whether you self-identify as targeted or healthy control. 
+In order to self-identify as targeted, you will need to confirm you hear external auditory intrusions that happen in response to what you think, and that often 
+reply to what you were thinking.
+
+Your EEG will be added to the training data set, and used for training and testing an AI-based classifier.
+
+If this research is successful, targeted individuals will be able to have a scientific test.
+After enough EEG samples are contributed, the test is expected to became extremely accurate. On training data from 40 subjects, the accuracy is 90.42%.
