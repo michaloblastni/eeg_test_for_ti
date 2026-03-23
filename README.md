@@ -16,7 +16,7 @@ More about the OpenBCI hardware is at ([TargetedIndividSci](https://www.reddit.c
 
 If this experiment is successful, targeted individuals will have a scientific test.
 
-Progress: 0 TIs have contributed. 40 is needed.
+Progress: 0 TIs have contributed. 40 are needed.
 
 # EEG-Based Scientific Test for Whether a Subject is a Targeted Individual
 
