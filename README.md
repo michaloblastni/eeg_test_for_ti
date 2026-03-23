@@ -1,6 +1,6 @@
 # EEG-Based Scientific Test for Targeted Individuals v 0.0.1
 
-Warning: This is a research prototype. It is not a final product. The dataset used is good enough to train an AI model, however it is unknown what EEG device it was recorded with. We need targeted individuals to anonymously record their own EEG, i.e. using OpenBCI 32bit 8ch and contribute their data to this project. 
+Warning: This is a research prototype. It is not a final product. The dataset used is good enough to train an AI model, however a new one is needed. Can targeted individuals anonymously record their own EEG, i.e. using OpenBCI 32bit 8ch and contribute their data to this project?
 Once 40 TIs have contributed, and 40 controls who are not targeted, the current code should be able to classify each subject with a high accuracy.
 On the sample data set, mean subject accuracy is 90.42%.
 
