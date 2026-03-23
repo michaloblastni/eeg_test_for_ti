@@ -96,6 +96,6 @@ $ python3 classify.py \
   --checkpoint runs/paper_reproduction_20260321_202239/fold_01_repeat_01.pt \
   --checkpoint runs/paper_reproduction_20260321_202239/fold_01_repeat_02.pt \
   test_subject.eea
-```bash
+```
   
 It will classify using the new AI model whether the test subject is a targeted individual or a healthy control, and it will also report the probability value P.
