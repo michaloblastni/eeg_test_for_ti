@@ -7,7 +7,8 @@ It is implemented as a regular Python script rather than a notebook because the 
 The current defaults stay close to the stronger raw-signal baseline, while keeping better repeat selection and saved subject-level metrics.
 
 
-Warning: This is a research prototype. It is not a final product. The dataset used is good enough to train an AI model, however a new one is needed. Can targeted individuals anonymously record their own EEG, i.e. using OpenBCI 32bit 8ch and contribute their data to this project?
+This is a research prototype. The dataset used is good enough to train an AI model, however a new data set is needed. Can targeted individuals anonymously record their own EEG, i.e. using OpenBCI 32bit 8ch and contribute their data to this project?
+
 Once 40 TIs have contributed, and 40 controls who are not targeted, the current code should be able to classify each subject with a high accuracy.
 On the sample data set, mean subject accuracy is 90.42%.
 
